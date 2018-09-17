@@ -1,0 +1,2 @@
+n=int('input no')
+print('your entered no',n)
